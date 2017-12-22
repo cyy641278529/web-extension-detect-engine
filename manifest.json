@@ -4,7 +4,6 @@
   "description": "Get the facebook instant ganme Engine Edition",
   "version": "1.0",
   "permissions": [
-    "activeTab",
     "https://*/*"
   ],
   "content_scripts": [
